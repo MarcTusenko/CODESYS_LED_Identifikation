@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <project xmlns="http://www.plcopen.org/xml/tc6_0200">
-  <fileHeader companyName="" productName="CODESYS" productVersion="CODESYS V3.5 SP21 Patch 1" creationDateTime="2026-09-30T16:18:09.4188677" />
+  <fileHeader companyName="" productName="CODESYS" productVersion="CODESYS V3.5 SP21 Patch 1" creationDateTime="2026-09-30T16:31:38.7257111" />
   <contentHeader name="LED-Identifikation.project" modificationDateTime="2026-09-30T14:39:44.6045366">
     <coordinateInfo>
       <fbd>
@@ -54,8 +54,8 @@
           <ST>
             <xhtml xmlns="http://www.w3.org/1999/xhtml">fbUserLED(
     xEnable := TRUE,
-    eLedID := WagoAppAppLED.eLedID.AppLED_1,
-    eLedColor := WagoAppAppLED.eLedColor.Red,
+    eLedID := WagoAppAppLED.eLedID.AppLED_5,
+    eLedColor := WagoAppAppLED.eLedColor.Green,
     oStatus =&gt; stStatus
 );</xhtml>
           </ST>
